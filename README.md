@@ -36,3 +36,5 @@ pip install pyqrcode pypng pillow
 ```bash
 python qr_code_generator.py
 ```
+## Screenshot:
+![Screenshot 2024-11-18 083852](https://github.com/user-attachments/assets/ac54f193-a442-43a0-99ae-eecf1d8622c8)
